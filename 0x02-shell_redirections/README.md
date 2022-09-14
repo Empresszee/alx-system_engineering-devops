@@ -1,1 +1,1 @@
-solution to task
+shell I/O redirections
